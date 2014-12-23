@@ -14,6 +14,13 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+*.xlsx
+*.png
+*.Rproj
+*.RData
+*.Rhistory
+.Rproj.user/
+
 # =========================
 # Operating System Files
 # =========================
